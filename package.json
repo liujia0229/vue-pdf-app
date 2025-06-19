@@ -1,6 +1,6 @@
 {
   "name": "@liujia0229/vue-pdf-app",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Vue 2 pdf viewer",
   "main": "dist/vue-pdf-app.umd.js",
   "unpkg": "dist/vue-pdf-app.umd.min.js",
